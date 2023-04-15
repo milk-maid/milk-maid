@@ -39,11 +39,6 @@ Like My Work?
 
 ### Languages and Tools:
 
-<!-- ---------------------------------- -->
-
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -54,8 +49,7 @@ Like My Work?
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <img height="15" src="images/sol.png" alt="solidity"> solidity
-<img height="15" src="images/tail.png" alt="tailwind"> tailwind css
-<img height="15" src="images/hardhat1.png" alt="hardhat"> hardhat
+<img height="15" src="images/tail.png" alt="tailwind"> tailwind <img height="15" src="images/hardhat1.png" alt="hardhat"> hardhat
 <img height="15" src="images/hardhat.png" alt="foundry"> foundry
 <img height="15" src="images/c.png" alt="C">C
 <img height="15" src="images/next.png" alt="nextjs">NextJS
