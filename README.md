@@ -26,10 +26,10 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Solidity, Foundry, Hardhat,<br />JavaScript, React, C, NEXT, HTML, Tailwindcss etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development (Golang, Python).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/milk-maid).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/milk-maid/milk-maid/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://bento.me/roqbell)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: roqbell@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/milk-maid/milk-maid/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
