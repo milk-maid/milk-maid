@@ -23,7 +23,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Solidity, Foundry, Hardhat, JavaScript, React, <br /> C, NEXT, HTML, Tailwincss etc.
+- 🛠 &nbsp; I’m currently working with Solidity, Foundry, Hardhat,<br />JavaScript, React, C, NEXT, HTML, Tailwindcss etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development (Golang, Python).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/milk-maid).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/milk-maid/milk-maid/issues/2)! I am happy to help.
