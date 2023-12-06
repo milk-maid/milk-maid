@@ -8,7 +8,7 @@
 
 ### Nice to have you around! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=page&style=flat-square&color=0088cc) 
 
-I'm a bachelor degree holder 🎓 in Physics Education 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love mentorship relationship 👨🏻‍💻. I'm currently into BlockChain Development 🕸️ and working on my Data Structures and Algorithms and other languages 🤓.
+I'm a bachelor's degree holder 🎓 in Physics Education 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love mentorship relationships 👨🏻‍💻. I'm currently into BlockChain Development 🕸️ and working on my Data Structures and Algorithms and other languages 🤓.
 
 Joined Github **3** years ago.
 
@@ -21,19 +21,19 @@ Like My Work?
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Solidity, Foundry, Hardhat,<br />JavaScript, React, C, NEXT, HTML, Tailwindcss etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development (Golang, Python).
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/milk-maid).
-- 💬 &nbsp; Ask me about anything [here](https://bento.me/roqbell)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available here on [Github](https://github.com/milk-maid).
+- 💬 &nbsp; Ask me about anything [here](https://t.me/the_roqbell/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: roqbell@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/milk-maid/milk-maid/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
