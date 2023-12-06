@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Roqeeb Bello!](https://github.com/milk-maid/)
+# Hey 👋, I'm [Roqeeb Bello!](https://github.com/milk-maid/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roqbell/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bento.me/roqbell)
@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/the_roqbell)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]() -->
 
-### Nice to have you around! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=page&style=flat-square&color=0088cc) 
+## Nice to have you around! &nbsp; ![badge icon](https://visitor-badge.glitch.me/badge?page_id=page&style=flat-square&color=0088cc)
 
 I'm a bachelor's degree holder 🎓 in Physics Education 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love mentorship relationships 👨🏻‍💻. I'm currently into BlockChain Development 🕸️ and working on my Data Structures and Algorithms and other languages 🤓.
 
@@ -18,26 +18,25 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/roqbell" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Book" height="60px" width="217px" ></a>
 
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Talking about Personal Stuff:
+### Talking about Personal Stuff
 
 - 🛠 &nbsp; I’m currently working with Solidity, Foundry, Hardhat, Cairo, JavaScript, etc.
 - 🚀 &nbsp; I’m currently exploring Smart Contract Security (Solidity & Cairo for L2).
 - 👨🏻‍💻 &nbsp; Most of my projects are available here on [Github](https://github.com/milk-maid).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/the_roqbell/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: roqbell@gmail.com
+- 📫 &nbsp; How to reach me: <roqbell@gmail.com>
 - 📝 &nbsp; Checkout my [Resume](https://github.com/milk-maid/milk-maid/blob/main/resume.pdf).
 
-### My Absolute Favorites:
+### My Absolute Favorites
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-### Languages and Tools:
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -67,10 +66,9 @@ Like My Work?
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 
 -->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"  height="120"/> 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"  height="120"/>
 
-### Projects and Dev Stuffs:
-
+### Projects and Dev Stuffs
 
 - NFT.
 - Auction, Staking, Farm, Trading Contracts.
@@ -147,26 +145,26 @@ Like My Work?
   </table>
   <br />
 </details> -->
- 
-<details>	
+
+<details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Manjaro</li>
-	    <li><b>Laptop: </b> DELL</li>
-  	    <li><b>Browser: </b> Chrome Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations
-	</ul>	
+   <ul>
+       <li><b>OS:</b> Manjaro</li>
+     <li><b>Laptop: </b> DELL</li>
+       <li><b>Browser: </b> Chrome Web Browser</li>
+     <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
+     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+     <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+     <br />
+ ⚛️ Checkout My VSCode Configrations
+ </ul>
 </details>
 
 #
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories
 
 </div>
