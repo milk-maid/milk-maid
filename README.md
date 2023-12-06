@@ -23,7 +23,7 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Solidity, Foundry, Hardhat,<br />JavaScript, React, C, NEXT, HTML, Tailwindcss, etc.
+- 🛠 &nbsp; I’m currently working with Solidity, Foundry, Hardhat, Cairo, JavaScript, etc.
 - 🚀 &nbsp; I’m currently exploring Smart Contract Security (Solidity & Cairo for L2).
 - 👨🏻‍💻 &nbsp; Most of my projects are available here on [Github](https://github.com/milk-maid).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/the_roqbell/)! I am happy to help.
