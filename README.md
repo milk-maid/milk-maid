@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Roqeeb Bello!](https://github.com/milk-maid/)
+# Hello 👋, I'm [Roqeeb Bello!](https://github.com/milk-maid/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roqbell/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bento.me/roqbell)
@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/the_roqbell)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]() -->
 
-## Nice to have you around! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=milk-maid.milk-maid&left_color=green&right_color=red)
+## Nice to have you around! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=milk-maid&left_color=green&right_color=red)
 <!--  ![badge icon](https://visitor-badge.glitch.me/badge?page_id=page&style=flat-square&color=0088cc)   -->
 
 I'm a bachelor's degree holder 🎓 in Physics Education 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love mentorship relationships 👨🏻‍💻. I'm currently into BlockChain Development 🕸️ and working on my Data Structures and Algorithms and other languages 🤓.
